@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "ai": {
-    "provider": "openai",
+    "provider": "deepseek",
     "model": "deepseek-v4-flash",
     "base_url": "https://api.deepseek.com",
     "api_key_env": "OPENAI_API_KEY",

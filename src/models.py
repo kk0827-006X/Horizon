@@ -45,6 +45,7 @@ class AIProvider(str, Enum):
     GEMINI = "gemini"
     DOUBAO = "doubao"
     MINIMAX = "minimax"
+    DEEPSEEK = "deepseek"
 
 
 class AIConfig(BaseModel):
