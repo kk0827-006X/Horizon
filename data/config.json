@@ -4,7 +4,7 @@
     "provider": "openai",
     "model": "deepseek-v4-flash",
     "api_key_env": "DEEPSEEK_API_KEY",
-    "base_url": "https://api.deepseek.com",
+    "base_url": "https://api.deepseek.com/v1",
     "temperature": 0.3,
     "max_tokens": 4096,
     "throttle_sec": 0,
@@ -85,13 +85,13 @@
       "min_score": 10
     },
     {
-      "subreddit": "LocalLLaMA",
+      "subreddit": "Financial",
       "sort": "hot",
       "fetch_limit": 25,
       "min_score": 20
     },
     {
-      "subreddit": "games",
+      "subreddit": "Games",
       "sort": "hot",
       "fetch_limit": 20,
       "min_score": 30
