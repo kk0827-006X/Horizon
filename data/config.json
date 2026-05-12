@@ -70,6 +70,24 @@
         "category": "ai-tools"
       },
       {
+  "name": "Yahoo Finance News",
+  "url": "https://finance.yahoo.com/news/rss",
+  "enabled": true,
+  "category": "finance"
+},
+{
+  "name": "Investing.com All News",
+  "url": "https://www.investing.com/rss/news.rss",
+  "enabled": true,
+  "category": "finance"
+},
+{
+  "name": "SEC RSS Feeds",
+  "url": "https://www.sec.gov/news/pressreleases.rss",
+  "enabled": true,
+  "category": "finance-regulation"
+},
+      {
         "name": "LWN.net (subscriber full-text)",
         "url": "https://lwn.net/headlines/full_text?key=${LWN_KEY}",
         "enabled": false,
