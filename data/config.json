@@ -55,7 +55,7 @@
     "repo": "openai-python",
     "enabled": true
   }
-]
+],
     "hackernews": {
       "enabled": true,
       "fetch_top_stories": 20,
